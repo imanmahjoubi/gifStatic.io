@@ -8,7 +8,7 @@ Developed by * Imen Mahjoubi *
 
 ## Screenshot 1
 
-![img](assets/img/pic1.png)
+![img](assets/img/b1.png)
 
 
 
@@ -17,4 +17,4 @@ Developed by * Imen Mahjoubi *
 
 ## Screenshot 2
 
-![img](assets/img/pic2.png)
+![img](assets/img/b2.png)

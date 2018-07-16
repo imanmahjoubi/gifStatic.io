@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0c5c5f6b-7008-4a77-abcd-22064c0c5a98" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Screen Shot 2018-07-16 at 12.51.18 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/pic1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Screen Shot 2018-07-16 at 12.51.37 PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/pic2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/pic1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/pic2.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +22,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="270">
+                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -177,12 +177,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531757705134</updated>
-      <workItem from="1531757707629" duration="3584000" />
+      <workItem from="1531757707629" duration="3711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3584000" />
+    <option name="totallyTimeSpent" value="3711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -244,11 +244,17 @@
     <entry file="file://$PROJECT_DIR$/assets/img/pic1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/b2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/b1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <first_editor relative-caret-position="270">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           </first_editor>
           <second_editor />
         </state>
