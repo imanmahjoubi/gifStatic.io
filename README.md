@@ -8,7 +8,7 @@ Developed by * Imen Mahjoubi *
 
 ## Screenshot 1
 
-![alt text](/Users/imenmahjoubi/Downloads/giphy-API-master/assets/img/Screen Shot 2018-07-16 at 12.51.18 PM.png)
+![img](assets/img/pic1.png)
 
 
 
@@ -17,4 +17,4 @@ Developed by * Imen Mahjoubi *
 
 ## Screenshot 2
 
-![alt text](/Users/imenmahjoubi/Downloads/giphy-API-master/assets/img/Screen Shot 2018-07-16 at 12.51.37 PM.png)
+![img](assets/img/pic2.png)
