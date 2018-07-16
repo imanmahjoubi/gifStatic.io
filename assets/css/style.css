@@ -1,0 +1,47 @@
+body{
+	background-repeat: no-repeat;
+	color: black;
+	font-family: 'Gaegu', cursive;
+	background: url("../img/background1.png");
+	background-size: 100%;
+}
+.jumbotron .h1, .jumbotron h1 {
+	text-align: center;
+}
+
+#copyright{
+	font-size: 14px;
+}
+div#footer {
+	clear: both;
+	margin-top: 40px;
+	position: center;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+}
+
+
+img { 
+    height: 160px;
+    width: 160px;
+}
+.btn {
+    margin: 3px;
+    border-color: #fff;
+	float: right;
+}
+.gifDiv{
+    float: left;
+    margin: 3px;
+}
+.container {
+	background-color: #fff;
+	opacity: 0.8;
+	padding: 20px;
+	border-radius: 25px;
+	margin-bottom: 10px;
+}
+.jumbotron {
+    background-color: inherit;
+}
